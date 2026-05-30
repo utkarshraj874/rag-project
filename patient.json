@@ -1,0 +1,62 @@
+{
+    "P002": {
+        "name": "Ravi Mehta",
+        "city": "Mumbai",
+        "age": 35,
+        "gender": "male",
+        "height": 1.75,
+        "weight": 85,
+        "bmi": 27.76,
+        "verdict": "Overweight"
+    },
+    "P003": {
+        "name": "Sneha Kulkarni",
+        "city": "Pune",
+        "age": 22,
+        "gender": "female",
+        "height": 1.6,
+        "weight": 45,
+        "bmi": 17.58,
+        "verdict": "Underweight"
+    },
+    "P004": {
+        "name": "Arjun Verma",
+        "city": "Mumbai",
+        "age": 40,
+        "gender": "male",
+        "height": 1.8,
+        "weight": 90.0,
+        "bmi": 27.78,
+        "verdict": "Normal"
+    },
+    "P005": {
+        "name": "sneha",
+        "city": "patna",
+        "age": 21,
+        "gender": "female",
+        "height": 1.5,
+        "weight": 55.0,
+        "bmi": 24.44,
+        "verdict": "normal"
+    },
+    "P007": {
+        "name": "string",
+        "city": "string",
+        "age": 1,
+        "gender": "male",
+        "height": 1.0,
+        "weight": 1.0,
+        "bmi": 1.0,
+        "verdict": "underweight"
+    },
+    "P008": {
+        "name": "ritesh",
+        "city": "basti",
+        "age": 20,
+        "gender": "male",
+        "height": 1.65,
+        "weight": 60.0,
+        "bmi": 22.04,
+        "verdict": "normal"
+    }
+}
